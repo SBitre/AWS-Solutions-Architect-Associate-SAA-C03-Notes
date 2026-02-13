@@ -16,12 +16,12 @@ Currently pursuing MS in Informatics (Cloud Concentration) at Northeastern Unive
 | Section | Topic | Status |
 |---------|-------|--------|
 | 01 | [Introduction & Exam Overview](./01-introduction/) | ✅ Complete |
-| 02 | [IAM — Identity & Access Management](./02-iam/) | ✅ Complete |
-| 03 | [EC2 — Elastic Compute Cloud](./03-ec2/) | ✅ Complete |
-| 04 | [EC2 — Instance Storage](./04-ec2-storage/) | ✅ Complete |
-| 05 | [ELB & ASG — Load Balancing & Auto Scaling](./05-elb-asg/) | ✅ Complete |
-| 06 | [RDS, Aurora & ElastiCache](./06-rds-aurora-elasticache/) | ✅ Complete |
-| 07 | [Route 53 — DNS](./07-route53/) | ✅ Complete |
+| 02 | [Code & Slides Download](./02-Code/) | ✅ Complete |
+| 03 | [Getting started with AWS](./03-AWS/) | ✅ Complete |
+| 04 | [IAM & AWS CLI](./04-IAM/) | ✅ Complete |
+| 05 | [EC2 Fundamentals](./05-EC2/) | ✅ Complete |
+| 06 | [EC2 - Solutions Architect Associate Level](./06-EC2/) | ✅ Complete |
+| 07 | [EC2 Instance Storage](./07-EC2/) | ✅ Complete |
 | 08 | [S3 — Simple Storage Service](./08-s3/) | ⬜ Up Next |
 | 09 | [S3 — Advanced & Security](./09-s3-advanced/) | ⬜ Not Started |
 | 10 | [CloudFront & Global Accelerator](./10-cloudfront/) | ⬜ Not Started |
